@@ -3,3 +3,4 @@ _venv/
 _app_info.md
 
 
+.vscode/launch.json
